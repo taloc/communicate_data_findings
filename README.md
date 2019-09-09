@@ -16,7 +16,9 @@ The objective of this project is to demonstrate the skills of:
 - seaborn
 
 ## Dataset:
-Loan data from Prosper (included as csv)
+Loan data from Prosper (can't include the csv due to github size limits):
+https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv
+
 Data dictionary: https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0
 
 ## Conclusions:
