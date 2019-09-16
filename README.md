@@ -22,6 +22,8 @@ https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv
 Data dictionary: https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0
 
 ## External sources and references:
-https://www.investopedia.com/terms/a/aaa.asp 
+https://www.investopedia.com/terms/a/aaa.asp
+
 https://en.wikipedia.org/wiki/Charge-off
+
 https://seaborn.pydata.org/generated/seaborn.countplot.html
