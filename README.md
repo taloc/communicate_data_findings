@@ -1,9 +1,7 @@
 # Project: communicate_data_findings
-Final project of Udacity's DAND about visualizations using python libraries
+
 To view the explanatory presentation please download and open the file: slide_deck_template.slides.html
 
-
-## NOTE: If you are a Udacity student doing the DAND, please do not plagiarize this project
 
 The academic objective of this project is to demonstrate the skills of:
 - Using python's visualizations libraries
